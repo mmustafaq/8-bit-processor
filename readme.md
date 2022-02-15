@@ -1,2 +1,2 @@
 # Read me
-this a exercise to understand the basics of a processor you can use it and change the instructions for your favor as much as you like.
+This a exercise to understand the basics of a processor.You can change the opcodes yourself and use it in your favour as you wish.
