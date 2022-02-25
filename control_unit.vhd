@@ -23,7 +23,7 @@ entity control_unit is
 			write_en	: out std_logic
 
 	);
-end control_unit
+end control_unit;
 
 
 
